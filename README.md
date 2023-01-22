@@ -15,5 +15,13 @@
 ![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/09.png "nixmsa@gmail.com")
 ![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/10.png "nixmsa@gmail.com")
 ![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/11.png "nixmsa@gmail.com")
-
-
+![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/12.png "nixmsa@gmail.com")
+![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/13.png "nixmsa@gmail.com")
+![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/14.png "nixmsa@gmail.com")
+![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/15.png "nixmsa@gmail.com")
+![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/16.png "nixmsa@gmail.com")
+![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/17.png "nixmsa@gmail.com")
+![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/18.png "nixmsa@gmail.com")
+![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/19.png "nixmsa@gmail.com")
+![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/20.png "nixmsa@gmail.com") 
+![Alt text](https://github.com/nixmsa/AzureVM/blob/main/png/21.png "nixmsa@gmail.com")
